@@ -2,7 +2,7 @@
 
 body{background-color:#000;font-family:var(--gaya-font);padding: 20px 25px;-webkit-user-select: none; -ms-user-select: none; user-select: none;} a{text-decoration:none;}
 
-body :: sebelum { /*content:"\00A9 feeldream";*/  color : putih ; isi : "Dari semesta untuk bunga" ; opasitas : .5 ; ukuran  font : 11px ; posisi : tetap ; bawah : 25px ; kanan : 25px ; indeks-z : 
+body :: sebelum { /*content:"\00A9 feeldream";*/  color : putih ; isi : "Universe" ; opasitas : .5 ; ukuran  font : 11px ; posisi : tetap ; bawah : 25px ; kanan : 25px ; indeks-z : 
 
 #bodyblur{opacity:.3;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.3);transition:all 1s ease;} 
 
