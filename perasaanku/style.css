@@ -22,7 +22,7 @@
 
 body{background-color:#000;font-family:var(--gaya-font);padding: 20px 25px;-webkit-user-select: none; -ms-user-select: none; user-select: none;} a{text-decoration:none;}
 
-body::before{content:"\00A9  Dari semesta untuk sinta";color:white;opacity:.12;font-size:11px;position:fixed;bottom:25px;right:25px;z-index:2}
+body::before{content:"\00A9 From: universe, to: my fav person in the world ";color:white;opacity:.12;font-size:11px;position:fixed;bottom:25px;right:25px;z-index:2}
 
 #bodyblur{opacity:.2;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.3);transition:all 1s ease;} 
 
